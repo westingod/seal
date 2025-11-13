@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Bot Telegram automatizado para:
+2Bot Telegram automatizado para:
 - recibir número
 - login en SEAL
 - registrar el número en el formulario Create
